@@ -1,7 +1,9 @@
-# exercise-langchain
+# 🚀 Chatbot 
 
 ### 📌 Overview 
-exercise-langchain은 OpenAI GPT-4와 DuckDuckGo 검색을 활용한 AI 챗봇 
+langchain exercise 를 위한 Chatbot
+
+OpenAI GPT-4와 DuckDuckGo 검색을 활용한 AI 챗봇 
 
 Streamlit을 기반으로 동작하며, LangChain을 활용하여 검색 기능을 포함한 대화형 AI를 제공
 
