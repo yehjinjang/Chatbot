@@ -33,7 +33,7 @@ st.title("🤖Yehjin's Chatbot")
 
 @st.cache_resource
 def load_model():
-    print("✅ GPT-4 Model Loaded...")
+    print("GPT-4 Model Loaded...")
     return agent
 
 agent = load_model()
